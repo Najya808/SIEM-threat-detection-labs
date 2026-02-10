@@ -5,3 +5,4 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 - [Lab 02: Understanding HOA Security Needs](lab-02-understanding-hoa-security-needs.md)
 - [Lab 03: Preparing the Lab Environment](lab-03-preparing-lab-environment.md)
 - [Lab 04: Selecting a SIEM Platform](lab-04-selecting-siem-platform.md)
+- [Lab 05: Installing Your Chosen SIEM](lab-05-installing-siem.md)
