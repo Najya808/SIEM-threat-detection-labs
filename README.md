@@ -39,3 +39,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 13: Basic SIEM Dashboards](Lab_13_Basic_SIEM_Dashboards.md)  
   Learn how to create and customize basic SIEM dashboards, visualize log data, and interpret security metrics using open-source tools.
+
+- [Lab 14: Setting Up Email Notifications](Lab_14_Setting_Up_Email_Notifications.md)  
+  Learn how to configure email notifications using an SMTP server, create alert rules, test alerts, and verify notifications for system monitoring.
