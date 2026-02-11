@@ -6,7 +6,7 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 02: Understanding HOA Security Needs](lab-02-understanding-hoa-security-needs.md)
 -   Learn how to assess security requirements for Homeowners Associations (HOA) and identify key areas for monitoring.
--   
+  
 - [Lab 03: Preparing the Lab Environment](lab-03-preparing-lab-environment.md)
 -   Learn how to set up a safe and functional lab environment for SIEM and log management experiments.
 
