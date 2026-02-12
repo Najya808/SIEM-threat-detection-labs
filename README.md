@@ -48,3 +48,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 16: Investigating Alerts in a SIEM System](Lab_16_Investigating_Alerts_in_a_SIEM_System.md)  
    Learn how to locate and analyze SIEM alerts, drill down into raw event logs, document findings, and propose incident response actions based on suspicious activities.
+
+- [Lab 17: Host Monitoring Configuration](Lab_17_Host_Monitoring_Configuration.md)  
+   Learn how to install a host intrusion detection agent, enable active monitoring for file changes and suspicious processes, and verify alerts within a SIEM system.
