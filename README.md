@@ -45,3 +45,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 15: Basic Correlation Rules](Lab_15_Basic_Correlation_Rules.md)  
    Learn how to create SIEM correlation rules, define thresholds and logic for detecting security threats, and test rule triggering using simulated login events.
+
+- [Lab 16: Investigating Alerts in a SIEM System](Lab_16_Investigating_Alerts_in_a_SIEM_System.md)  
+   Learn how to locate and analyze SIEM alerts, drill down into raw event logs, document findings, and propose incident response actions based on suspicious activities.
