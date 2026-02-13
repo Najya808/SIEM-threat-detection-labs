@@ -1,4 +1,4 @@
-# Lab 36: Automating Simple Responses (SOAR Lite) (Optional)
+# Lab 35: Automating Simple Responses (SOAR Lite) (Optional)
 
 ## Objectives
 - Understand the fundamentals of Security Orchestration, Automation, and Response (SOAR).
