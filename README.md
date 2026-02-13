@@ -51,3 +51,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 17: Host Monitoring Configuration](Lab_17_Host_Monitoring_Configuration.md)  
    Learn how to install a host intrusion detection agent, enable active monitoring for file changes and suspicious processes, and verify alerts within a SIEM system.
+
+- [Lab 18: Network Traffic & IDS Integration (Optional)](Lab_18_Network_Traffic_IDS_Integration.md)  
+   Learn how to install and configure an IDS, integrate IDS alerts with a SIEM system, and generate network traffic to monitor and analyze security events.
