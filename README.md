@@ -90,3 +90,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 31: File Integrity Monitoring (Optional)](Lab_31_File_Integrity_Monitoring.md)  
    Learn to monitor file and directory changes using `auditd` on Linux. Configure watches, simulate changes, and verify alerts. FIM helps detect unauthorized modifications, protecting system integrity and supporting proactive security practices.
+
+- [Lab 32: Setting Up User and Entity Behavior Analytics (UEBA) (Optional)](Lab_32_UEBA_Setup.md)  
+   Learn to configure UEBA using the Elastic Stack (ELK), Filebeat, and Auditbeat. Set up anomaly detection, visualize user behavior, and detect unusual account activities to enhance cybersecurity monitoring.
