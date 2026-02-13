@@ -84,3 +84,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 28: Regular Expressions in Log Searches](Lab_28_Regex_in_Log_Searches.md)  
    Learn to use Regular Expressions (Regex) to efficiently search and extract data from log files. Construct patterns for IPs, user IDs, and error codes. Apply these skills in Python scripts or text editors for log parsing and forensic analysis.
+
+- [Lab 29: Analyzing Trends Over Time](Lab_29_Analyzing_Trends_Over_Time.md)  
+   Learn to process and visualize time-series data using Python. Build line charts, compute weekly averages, detect anomalies, and export results as PDF snapshots. Mastery of these techniques aids in identifying patterns, monitoring trends, and supporting data-driven decisions.
