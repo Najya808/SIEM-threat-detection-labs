@@ -54,3 +54,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 18: Network Traffic & IDS Integration (Optional)](Lab_18_Network_Traffic_IDS_Integration.md)  
    Learn how to install and configure an IDS, integrate IDS alerts with a SIEM system, and generate network traffic to monitor and analyze security events.
+
+- [Lab 19: Creating a Real-Time Dashboard](Lab_19_Real_Time_Dashboard.md)  
+   Learn how to build a real-time monitoring dashboard using Prometheus and Grafana, configure live data visualization, and monitor system activity with automated refresh intervals.
