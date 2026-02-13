@@ -60,3 +60,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 20: Role-Based Access Control](Lab_20_Role_Based_Access_Control.md)  
    Learn how to implement RBAC using Linux groups, create analyst and admin roles, enforce read-only permissions, and validate role-based access through practical testing.
+
+- [Lab 21: Searching & Filtering Data](Lab_21_Searching_Filtering_Data.md)  
+   Learn how to perform field-based log searches, apply time and severity filters, and save frequently used queries to streamline SIEM data analysis workflows.
