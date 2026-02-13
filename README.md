@@ -96,3 +96,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 32: Backup & Restore of SIEM Data](Lab_32_SIEM_Backup_Restore.md)  
    Learn to perform manual backup and restore of SIEM data (indices and rules) in open-source tools like ELK Stack. Simulate restores in test environments to ensure data integrity and maintain system reliability.
+
+- [Lab 33: Creating a Test Incident Response Plan](Lab_34_Incident_Response_Plan.md)  
+   Develop and document an Incident Response Plan (IRP) including defined roles, escalation procedures, and a tabletop exercise. This lab helps organizations prepare for cybersecurity incidents and improve response readiness.
