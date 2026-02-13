@@ -75,3 +75,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 25: Basic Incident Response Workflow](Lab_25_Basic_Incident_Response_Workflow.md)  
    Learn how to simulate a security incident using Fail2Ban, document and analyze it in an ELK Stack SIEM, and follow a basic incident response workflow to improve organizational security practices.
+
+- [Lab 26: Utilizing Dashboards for Executive Reporting](Lab_27_Utilizing_Dashboards_for_Executive_Reporting.md)  
+   Learn how to create executive-friendly dashboards using Grafana or Kibana. Import datasets, visualize daily incidents and top event types, apply clear labels, and export or share dashboards for management reporting.
