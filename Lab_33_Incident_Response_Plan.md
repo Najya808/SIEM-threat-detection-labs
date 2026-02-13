@@ -1,6 +1,4 @@
-Lab_34_Incident_Response_Plan.md
-
-# Lab 34: Creating a Test Incident Response Plan
+# Lab 33: Creating a Test Incident Response Plan
 
 ## Objectives
 - Develop an Incident Response Plan (IRP) to effectively manage and mitigate cybersecurity incidents.
