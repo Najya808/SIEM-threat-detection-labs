@@ -105,3 +105,6 @@ SIEM &amp; Security Operations (HOA) labs from the Al-Razzaq cybersecurity progr
 
 - [Lab 35: Automating Simple Responses (SOAR Lite)](Lab_36_Automating_Simple_Responses_SOAR_Lite.md)  
   Learn to automate simple security responses using OSQuery, iptables, and StackStorm. This optional lab demonstrates how SOAR solutions can streamline incident response and improve operational efficiency.
+
+- (Lab_36_Onboarding_a_New_Log_Source.md)  
+  Onboard a new log source into a SIEM, configure agents or collectors, and validate log parsing and dashboard visualization.
